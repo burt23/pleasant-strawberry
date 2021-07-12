@@ -8,8 +8,8 @@
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
     "snipcart_api_key": "",
-    "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
-    "palette": "green",
+    "footer_text": "Copyright 2021 xo9 Inc. All rights reserved.",
+    "palette": "blue",
     "main_menu": [
         {
             "title": "Store",
@@ -27,5 +27,5 @@
             "style": "link"
         }
     ],
-    "title": "Planty"
+    "title": "xo9 3D Printing"
 }

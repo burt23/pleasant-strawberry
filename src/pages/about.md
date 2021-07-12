@@ -5,40 +5,24 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: We are Planty
+    headline: The future of manufacturing is here 
     subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+      3D Printing offers uniquely fundamental shift in the way we manufacture and consume goods. Providing unique abilities to customize, repaire, and build in otherwise previously unseen shapes and designs, the possibilites for creation are endless.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
+      - title: Getting started with 3D printing 
         description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+          Weather you're already an expert in the 3D printing world or just getting started we're here to help. 
         image: images/nan_talk.jpg
-      - title: We think plants are the future
+      - title: Made in the USA 
         description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+          From custom products to gifts, toys, and other fun items in our shop, 3D printing offers something for everyone. And buyers can feel even better about their purchase knowing that everything from the filament to the actual printing of the object was done here in the USA. This fundamental shift in the creation of goods is a rapidly moving wave that xo9 is proud to be apart of.  
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
+    title: A new way of creating goods 
+    subtitle: from $19.99
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
@@ -48,7 +32,7 @@ sections:
       arrow: true
 seo:
   title: About
-  description: This is the about page
+  description: A little about us 
   extra:
     - name: 'og:type'
       value: website
@@ -57,7 +41,7 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: A little about us 
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
@@ -68,7 +52,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: A little about us 
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
